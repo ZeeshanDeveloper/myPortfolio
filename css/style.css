@@ -1049,6 +1049,7 @@ body.opened .kura_tm_hero .down {
     position: relative;
     min-width: 100%;
     opacity: 0;
+    aspect-ratio: 45 / 19;
 }
 
 .kura_tm_portfolio .portfolio_list .image .main {
